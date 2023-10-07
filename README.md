@@ -11,7 +11,7 @@
 
 - 🎮 **Videojuegos:** Los videojuegos son una de mis pasiones. Algunos de mis títulos favoritos incluyen:
 
-  - **The Legend of Zelda:** Soy un fanático de la serie The Legend of Zelda y he explorado Hyrule en numerosas aventuras épicas.c
+  - **The Legend of Zelda:** Soy un fanática de la serie The Legend of Zelda y he explorado Hyrule en numerosas ocasiones.
 
   - **Final Fantasy VII:** La historia y el mundo de Final Fantasy VII me cautivaron, y considero este juego como uno de los mejores RPG de todos los tiempos.
 
@@ -25,7 +25,7 @@
 ![octocat-1696675858875](https://github.com/Alba448/Alba448/assets/146001599/018049ff-d630-4762-bcb1-eb22f88161ed)
 
 
-📜 **Cultura Japonesa:** Siento una profunda conexión con Japón y sus tradiciones. Aquí algunas frases japonesas que reflejan mi admiración:
+📜 **Cultura Japonesa:** Siento una profunda conexión con Japón y sus tradiciones. 
 
   - **"Mono no aware" (物の哀れ):** Esta frase captura la belleza efímera de las cosas y la melancolía de la vida. 🌸
 
