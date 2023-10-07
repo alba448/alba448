@@ -6,8 +6,7 @@
 
 ### Estudiante de Desarrollo de Aplicaciones Web
 
-¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. Además de mi interés en la programación, me gustaría compartir más sobre mis gustos personales, especialmente mis intereses en la lectura de ciencia ficción y fantasía:
-
+¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
 ### Gustos Personales
 
 - 🎮 **Videojuegos:** Los videojuegos son una de mis pasiones. Algunos de mis títulos favoritos incluyen:
