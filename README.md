@@ -18,7 +18,7 @@
 - 📺 **Manga y Anime:** La cultura japonesa me fascina, y disfruto tanto de leer manga como de ver anime. Las historias y la creatividad en este medio son realmente inspiradoras. Algunos de mis títulos favoritos son [La Princesa Mononoke] y [La Chica que saltaba a traves del tiempo].
 
 - 🌳 **Salidas al Campo:** Aunque paso mucho tiempo frente a la pantalla, también valoro el tiempo al aire libre. Me encanta escapar a la naturaleza, hacer senderismo, acampar y explorar nuevos lugares en mi tiempo libre.
-- ### Formación Académica
+ ### Formación Académica
 
 - 📚 **Técnico Administrativo y de Finanzas:** Además de mi interés en el desarrollo web, me he formado como Técnico Administrativo y de Finanzas, lo que me ha proporcionado una base sólida en la gestión administrativa y financiera.
 
