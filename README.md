@@ -4,10 +4,10 @@
 
 ## [Alba]
 
-### Estudiante de Desarrollo de Aplicaciones Web
+### Estudiante de Desarrollo de Aplicaciones Web    ![octocat-1696675858875](https://github.com/Alba448/Alba448/assets/146001599/018049ff-d630-4762-bcb1-eb22f88161ed)
 
 ¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
-### Gustos Personales
+### Gustos Personales 
 
 - 🎮 **Videojuegos:** Los videojuegos son una de mis pasiones. Algunos de mis títulos favoritos incluyen:
 
@@ -15,14 +15,9 @@
 
   - **Final Fantasy VII:** La historia y el mundo de Final Fantasy VII me cautivaron, y considero este juego como uno de los mejores RPG de todos los tiempos.
 
-- 📺 **Manga y Anime:** La cultura japonesa me fascina, y disfruto tanto de leer manga como de ver anime. Las historias y la creatividad en este medio son realmente inspiradoras. Algunos de mis títulos favoritos son [La Princesa Mononoke] y [La Chica que saltaba a traves del tiempo].
-
-- 🌳 **Salidas al Campo:** Aunque paso mucho tiempo frente a la pantalla, también valoro el tiempo al aire libre. Me encanta escapar a la naturaleza, hacer senderismo, acampar y explorar nuevos lugares en mi tiempo libre.
- ### Formación Académica
-
 - 📚 **Técnico Administrativo y de Finanzas:** Además de mi interés en el desarrollo web, me he formado como Técnico Administrativo y de Finanzas, lo que me ha proporcionado una base sólida en la gestión administrativa y financiera.
 
-![octocat-1696675858875](https://github.com/Alba448/Alba448/assets/146001599/018049ff-d630-4762-bcb1-eb22f88161ed)
+
 
 
 📜 **Cultura Japonesa:** Siento una profunda conexión con Japón y sus tradiciones. 
