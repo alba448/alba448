@@ -1,6 +1,4 @@
-
-
-![Black and White Minimalist Gaming Channel Banner Landscape](https://github.com/Alba448/Alba448/assets/146001599/7216a497-8314-4453-b464-eefa173b373f)
+(https://github.com/Alba448/Alba448/assets/146001599/7216a497-8314-4453-b464-eefa173b373f)
 
 ## [Alba]
 
