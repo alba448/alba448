@@ -4,8 +4,11 @@
 
 ## [Alba García Orduña]
 
-### Estudiante de Desarrollo de Aplicaciones Web   
-<img src="./imgs/octocat.png" width=23% align=right /> ¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
+### Estudiante de Desarrollo de Aplicaciones Web 
+
+<img src="./imgs/octocat.png" width="23%" align="right"/>  
+
+¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes.
 
 
 
