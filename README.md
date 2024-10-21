@@ -7,6 +7,7 @@
 ### Estudiante de Desarrollo de Aplicaciones Web   
 <img src="./imgs/octocat.png" width=23% align=left />
 ¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
+
 ### Gustos Personales 
 
 - 🎮 **Videojuegos:** Los videojuegos son una de mis pasiones. Algunos de mis títulos favoritos incluyen:
