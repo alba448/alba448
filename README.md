@@ -8,6 +8,10 @@
 <img src="./imgs/octocat.png" width=23% align=left />
 ¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
 
+📚 **Técnico Administrativo y de Finanzas:** Además de mi interés en el desarrollo web, me he formado como Técnico Administrativo y de Finanzas, lo que me ha proporcionado una base sólida en la gestión administrativa y financiera.
+
+---
+
 ### Gustos Personales 
 
 - 🎮 **Videojuegos:** Los videojuegos son una de mis pasiones. Algunos de mis títulos favoritos incluyen:
@@ -16,8 +20,8 @@
 
   - **Final Fantasy VII:** La historia y el mundo de Final Fantasy VII me cautivaron, y considero este juego como uno de los mejores RPG de todos los tiempos.
 
-- 📚 **Técnico Administrativo y de Finanzas:** Además de mi interés en el desarrollo web, me he formado como Técnico Administrativo y de Finanzas, lo que me ha proporcionado una base sólida en la gestión administrativa y financiera.
 
+---
 ### 💻Tecnologías que uso
 <p align=center>
   <img src="./imgs/github.png" width=5% align=center />
