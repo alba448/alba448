@@ -6,8 +6,8 @@
 ## [Alba]
 
 
-### Estudiante de Desarrollo de Aplicaciones Web    ![octocat-1696675858875](https://github.com/Alba448/Alba448/assets/146001599/018049ff-d630-4762-bcb1-eb22f88161ed)
-
+### Estudiante de Desarrollo de Aplicaciones Web   
+<img src="./imgs/octocat.png" width=23% align=left />
 ¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
 ### Gustos Personales 
 
