@@ -2,12 +2,12 @@
 <img src="./imgs/bannerLinkedin.png" alt="Banner" borderRadius='1rem' boxShadow = '0 3px 10px rgba(0,0,0,0.3)' align="center"></br>
 
 
-## [Alba]
+## [Alba García Orduña]
 
 ### Estudiante de Desarrollo de Aplicaciones Web   
-<img src="./imgs/octocat.png" width=23% align=left />
+<img src="./imgs/octocat.png" width=23% align=right /> ¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
 
-¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
+
 
 📚 **Técnico Administrativo y de Finanzas:** Además de mi interés en el desarrollo web, me he formado como Técnico Administrativo y de Finanzas, lo que me ha proporcionado una base sólida en la gestión administrativa y financiera.
 
