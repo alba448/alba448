@@ -1,6 +1,8 @@
 
+![Alba Garcia](https://github.com/user-attachments/assets/0fec9d10-450a-4339-88b1-f818a5f2f12e)
 
-## [Alba]![Alba Garcia](https://github.com/user-attachments/assets/8655726d-fd20-4ebd-a440-63b4a215b288)
+
+## [Alba]
 
 
 ### Estudiante de Desarrollo de Aplicaciones Web    ![octocat-1696675858875](https://github.com/Alba448/Alba448/assets/146001599/018049ff-d630-4762-bcb1-eb22f88161ed)
