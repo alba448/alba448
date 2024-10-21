@@ -5,7 +5,6 @@
 
 ## [Alba]
 
-
 ### Estudiante de Desarrollo de Aplicaciones Web   
 <img src="./imgs/octocat.png" width=23% align=left />
 ¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes. 
@@ -21,11 +20,3 @@
 
 
 
-
-📜 **Cultura Japonesa:** Siento una profunda conexión con Japón y sus tradiciones. 
-
-  - **"Mono no aware" (物の哀れ):** Esta frase captura la belleza efímera de las cosas y la melancolía de la vida. 🌸
-
-  - **"Kodawari" (こだわり):** Significa una atención extrema a los detalles y la búsqueda de la perfección. 👌
-
-  - **"Wabi-sabi" (侘寂):** Representa la apreciación de la belleza imperfecta y la transitoriedad de la vida. 🍃
