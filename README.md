@@ -1,5 +1,6 @@
 
-![Alba Garcia](https://github.com/user-attachments/assets/0fec9d10-450a-4339-88b1-f818a5f2f12e)
+![Alba Garcia](https://github.com/user-attachments/assets/735c7366-4459-4589-ad74-0c8d12c3b910)
+
 
 
 ## [Alba]
