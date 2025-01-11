@@ -1,5 +1,5 @@
 
-<img src="./imgs/bannerLinkedin.png" alt="Banner" borderRadius='1rem' boxShadow = '0 3px 10px rgba(0,0,0,0.3)' align="center"></br>
+<img src="./imgs/banner.png" alt="Banner" borderRadius='1rem' boxShadow = '0 3px 10px rgba(0,0,0,0.3)' align="center"></br>
 
 
 ## [Alba García Orduña]
