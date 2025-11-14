@@ -8,7 +8,7 @@
 
 <img src="./imgs/octocat.png" width="23%" align="right"/>  
 
-¡Hola! Soy una estudiante de Desarrollo de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes.
+¡Hola! Soy  Desarrolla de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes.
 
 
 
