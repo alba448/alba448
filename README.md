@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alba García Orduña
 
-### Junior Data Engineer | Ex-BBVA Technology | Backend & Cloud Native
+### Junior Data Engineer | Backend & Cloud Native
 
 Apasionada por la ingeniería de datos y la optimización de procesos. Cuento con experiencia técnica en el sector bancario (**BBVA Technology**), donde trabajé en la construcción de **microservicios** y arquitecturas **serverless** en la nube.
 
