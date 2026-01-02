@@ -1,50 +1,37 @@
+# 👋 Hola, soy Alba García Orduña
 
-<img src="./imgs/banner.png" alt="Banner" borderRadius='1rem' boxShadow = '0 3px 10px rgba(0,0,0,0.3)' align="center"></br>
+### Junior Data Engineer | Ex-BBVA Technology | Backend & Cloud Native
 
+Apasionada por la ingeniería de datos y la optimización de procesos. Cuento con experiencia técnica en el sector bancario (**BBVA Technology**), donde trabajé en la construcción de **microservicios** y arquitecturas **serverless** en la nube.
 
-## [Alba García Orduña]
-
-### Estudiante de Desarrollo de Aplicaciones Web 
-
-<img src="./imgs/octocat.png" width="23%" align="right"/>  
-
-¡Hola! Soy  Desarrolla de Aplicaciones Web y mi objetivo principal es aprender y mejorar mis habilidades para contribuir a proyectos emocionantes.
-
-
-
-📚 **Técnico Administrativo y de Finanzas:** Además de mi interés en el desarrollo web, me he formado como Técnico Administrativo y de Finanzas, lo que me ha proporcionado una base sólida en la gestión administrativa y financiera.
+Mi objetivo es aplicar mi base de desarrollo backend para construir pipelines de datos robustos, escalables y con altos estándares de calidad.
 
 ---
 
-### Gustos Personales 
+## 🛠️ Mi Toolbox Técnico
 
-- 🎮 **Videojuegos:** Los videojuegos son una de mis pasiones. Algunos de mis títulos favoritos incluyen:
+### Data Engineering & Backend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  - **The Legend of Zelda:** Soy un fanática de la serie The Legend of Zelda y he explorado Hyrule en numerosas ocasiones.
-
-  - **Final Fantasy VII:** La historia y el mundo de Final Fantasy VII me cautivaron, y considero este juego como uno de los mejores RPG de todos los tiempos.
-
+### Cloud (AWS) & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-### 💻Tecnologías que uso
-<p align=center>
-  <img src="./imgs/github.png" width=5% align=center />
-  <img src="./imgs/gitkraken.png" width=5% align=center />
-  <img src="./imgs/kotlin.png" width=5% align=center />
-  <img src="./imgs/html.png" width=5% align=center />
-  <img src="./imgs/css.png" width=5% align=center />
-  <img src="./imgs/mysql.png" width=5% align=center />
-  <img src="./imgs/sqlite.png" width=5% align=center />
-  <img src="./imgs/java.png" width=5% align=center />
-  <br>
-  <img src="./imgs/dockerLogo.png" width=5% align=center />
-  <img src="./imgs/postman.svg" width=6% align=center />
-  <img src="./imgs/springboot.png" width=5% align=center />
-  <img src="./imgs/postgres.png" width=5% align=center />
-  <img src="./imgs/mariadb.svg" width=5% align=center />
-  <img src="./imgs/bootstrap.png" width=5% align=center />
-  <img src="./imgs/javascript.png" width=5% align=center />
-</p>
 
+## 📈 En lo que estoy trabajando
+- 🏗️ **Data Pipelines:** Explorando la creación de flujos ETL eficientes con Python.
+- ☁️ **Cloud Native:** Profundizando en servicios de AWS como Lambda, S3 y Step Functions.
+- 📐 **Data Quality:** Aplicando principios de gobierno de datos y calidad en cada desarrollo.
 
+---
 
+## 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba-go/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albag448@gmail.com)
