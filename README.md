@@ -1,13 +1,12 @@
 # 👋 Hola, soy Alba García Orduña
 
-### Junior Data Engineer | Backend & Cloud Native
+### Junior Data Analyst | Big Data & Cloud Analytics
 
-Apasionada por la ingeniería de datos y la optimización de procesos. Cuento con experiencia técnica en el sector bancario (**BBVA Technology**), donde trabajé en la construcción de **microservicios** y arquitecturas **serverless** en la nube.
+Apasionada por la extracción de insights y el procesamiento de grandes volúmenes de datos. Mi sólida base técnica como desarrolladora backend me permite entender y construir procesos de datos robustos, eficientes y escalables.
 
-Mi objetivo es aplicar mi base de desarrollo backend para construir pipelines de datos robustos, escalables y con altos estándares de calidad.
+Actualmente trabajo como **Analista de Datos** en el sector bancario (proyecto para **Accenture / BBVA**), donde me especializo en el procesamiento masivo de datos y el análisis exploratorio (EDA) a escala en la nube. Mi objetivo es transformar datos complejos en información de valor para el negocio, garantizando siempre la calidad, el gobierno del dato y la eficiencia operativa.
 
 ---
-
 ## 🛠️ Mi Toolbox Técnico
 
 ### Data Engineering & Backend
@@ -25,10 +24,12 @@ Mi objetivo es aplicar mi base de desarrollo backend para construir pipelines de
 
 ---
 
-## 📈 En lo que estoy trabajando
-- 🏗️ **Data Pipelines:** Explorando la creación de flujos ETL eficientes con Python.
-- ☁️ **Cloud Native:** Profundizando en servicios de AWS como Lambda, S3 y Step Functions.
-- 📐 **Data Quality:** Aplicando principios de gobierno de datos y calidad en cada desarrollo.
+## 📈 En lo que estoy trabajando actualmente
+
+- 📊 **Análisis y Extracción de Valor:** Realizando consultas distribuidas y Análisis Exploratorio de Datos (EDA) a gran escala mediante **AWS Athena**.
+- ⚙️ **Procesamiento Big Data:** Diseñando y ejecutando transformaciones de grandes volúmenes de datos utilizando **Python** y **PySpark**.
+- 🤖 **Machine Learning:** Colaborando en el desarrollo y entrenamiento de modelos predictivos en **AWS SageMaker** para la optimización de procesos financieros.
+- 📐 **Gobierno de Datos (ADA):** Gestionando activos de datos bajo estrictos marcos de calidad y trazabilidad.
 
 ---
 
